@@ -1,0 +1,23 @@
+{
+  "name": "HashlinkTools",
+  "main": "HashlinkTools.js",
+  "version": "0.1.0",
+  "authors": [
+    "Mark Christian D. Lopez<xmarkclx@gmail.com>"
+  ],
+  "description": "HashlinkTools are tools that make managing Hash links easier.",
+  "keywords": [
+    "hashlink",
+    "filter"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.markcl.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
